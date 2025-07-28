@@ -11,6 +11,10 @@ You will:
 4. Implement testing across the entire application
 5. Deploy the application to production
 
+## Final Project URL
+
+https://jesse-thuranira-final-project.netlify.app/
+
 ## Getting Started
 
 1. Accept the GitHub Classroom assignment
@@ -49,4 +53,4 @@ Your project will be automatically submitted when you push to your GitHub Classr
 - [Express.js Documentation](https://expressjs.com/)
 - [React Documentation](https://react.dev/)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
-- [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom) 
+- [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom)
